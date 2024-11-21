@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Coverage directory (if using any)
+coverage/
+
+# Optional: Operating system files
+Thumbs.db
+ehthumbs.db
+
+# Local database files or MongoDB related files (if any)
+*.log
